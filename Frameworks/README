@@ -1,0 +1,4 @@
+We need this to start toribash from toribash.dev directory.
+
+Frameworks should be located in @executable_path/../Frameworks/
+

@@ -1,0 +1,7 @@
+#ifndef GR_GEOM
+#define GR_GEOM
+
+enum { GEOM_NONE, GEOM_BOX, GEOM_SPHERE, GEOM_CAPSULE, GEOM_CYLINDER };
+enum { HINGE, BALL };
+
+#endif

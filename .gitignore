@@ -1,0 +1,35 @@
+# Ignore objects and archives.
+*.[o]
+*.gch
+# Ignore old CVS directories
+CVS
+tags
+lib/build
+*.exe
+*.obj
+*.ncb
+*.log
+*.tmp
+*.log
+*.dmg
+*.bz2
+*.tmp
+*.suo
+*.sdf
+*.lib
+*.ii
+*.s
+*.dSYM/
+*.ipch
+*.opensdf
+*.vcxproj.user.*
+*.vcxproj.user
+.DS_Store
+.gdb_history
+ode.lib
+oded.lib
+OPCODE.lib
+OPCODE_D.lib
+local/
+stderr.txt
+stdout.txt
